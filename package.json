@@ -1,0 +1,19 @@
+{
+  "name": "awesome-foundation6-checkbox",
+  "version": "1.0.0",
+  "description": "Awesome Foundation6 Checkbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rufhausen/awesome-foundation6-checkbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rufhausen/awesome-foundation6-checkbox/issues"
+  },
+  "homepage": "https://github.com/rufhausen/awesome-foundation6-checkbox#readme"
+}
