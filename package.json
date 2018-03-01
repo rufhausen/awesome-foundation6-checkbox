@@ -2,7 +2,7 @@
   "name": "awesome-foundation6-checkbox",
   "version": "1.0.0",
   "description": "Awesome Foundation6 Checkbox",
-  "main": "index.js",
+  "main": "src/awesome-foundation6-checkbox.scss",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
